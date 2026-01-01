@@ -1,4 +1,4 @@
-# Simple Login System
+# LoginPortal
 
 A basic Java login system with MySQL/SQLite database support.
 
